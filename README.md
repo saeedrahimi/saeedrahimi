@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Saeed Rahimi 👋</h1>
 
+<h2 align="center">You can reach me at</h2>
 <p align="center">
- <a href="https://linkedin.com/in/saeedrahimi" target="_blank">
+  <a href="https://linkedin.com/in/SaeedRahimi" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
  </a>
-  
- <a href="https://twitter.com/SaeedRahimi" target="_blank">
+ <a href="https://twitter.com/Saeedr_ir" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
  </a>
 </p>
@@ -31,6 +31,9 @@
 </br>
 
 <p align="center">
- <a href="#" alt="Saeed Rahimi's github stats"><img src="https://github-readme-stats.vercel.app/api?username=SaeedRahimi" /></a>
+ <a href="#" alt="Saeed Rahimi's github stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=SaeedRahimi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saeed Rahimi's Github Stats"></a>
+ 
+  <a href="#" alt="Saeed Rahimi's github stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedRahimi&theme=radical&title_color=8E2DE2&text_color=fff" alt="Saeed Rahimi's Github Stats"></a>
+  
 </p>
 
