@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Saeed Rahimi 👋</h1>
 
-<h2 align="center">You can reach me at</h2>
+<h3 align="center">You can reach me at</h2>
 <p align="center">
   <a href="https://linkedin.com/in/SaeedRahimi" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
