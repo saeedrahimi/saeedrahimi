@@ -23,6 +23,7 @@
   <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   <img src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
   <img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" />
+  <img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
 </p>
 
 - 📃 I blog here: https://saeedrahimi.ir
