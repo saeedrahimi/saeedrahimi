@@ -26,7 +26,7 @@
   <img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
 </p>
 
-- 📃 I blog here: https://saeedrahimi.ir
+- 📃 I blog here: http://saeedrahimi.ir
 - 💬 Ask me about: .NET, clean-architecture, micro-services, DDD, CQRS, event-sourcing, javascript
 - 👯 I’m looking to collaborate on: .NET and React projects.
 </br>
